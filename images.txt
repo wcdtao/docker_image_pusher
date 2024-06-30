@@ -1,3 +1,4 @@
 hanxi/xiaomusic
 nginx
 xhofe/alist:latest
+homeassistant/home-assistant:latest
