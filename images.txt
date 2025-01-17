@@ -1,1 +1,2 @@
-elastic/elasticsearch:7.17.27
+elastic/elasticsearch:8.16.2
+elastic/elasticsearch:6.8.10
