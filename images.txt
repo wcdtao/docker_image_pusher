@@ -2,3 +2,4 @@ gitlab/gitlab-ce:latest
 redis
 mysql:8.0.40
 mysql:5.7
+vaultwarden/server:latest
