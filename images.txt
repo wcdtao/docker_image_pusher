@@ -1,3 +1,4 @@
+xhofe/alist:v3.42.0-aio
 gitlab/gitlab-ce:latest
 redis
 mysql:8.0.40
